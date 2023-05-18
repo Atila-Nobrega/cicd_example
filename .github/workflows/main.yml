@@ -53,4 +53,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: atila-nobrega/engsoft2_cicd:latest
+        tags: ${{ secrets.DOCKER_USERNAME }}/engsoft2_cicd:latest
