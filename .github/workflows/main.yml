@@ -53,4 +53,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: Atila-Nobrega/engsoft2_cicd:latest
+        tags: atila-nobrega/engsoft2_cicd:latest
