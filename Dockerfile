@@ -6,6 +6,6 @@ RUN pip install requests
 
 WORKDIR /main
 
-EXPOSE
+EXPOSE 8080
 
 CMD ["python", "main.py"]
